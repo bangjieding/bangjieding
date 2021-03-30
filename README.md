@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> >>>>>>>KEEP CODING <<<<<<<<
+---------------- KEEP CODING ---------------- 
 
 ### Github stats
 
